@@ -49,6 +49,12 @@ Example of a completed item:
 Commit your changes regularly (at least daily):
 
 ```bash
+# Create your feature branch
+git branch onboarding/firstname-lastname-onboarding
+
+# Checkout to your feature branch
+git checkout onboarding/firstname-lastname-onboarding
+
 # Stage your changes
 git add onboarding/checklists/firstname-lastname.md
 
@@ -56,7 +62,7 @@ git add onboarding/checklists/firstname-lastname.md
 git commit -m "Update onboarding checklist - completed platform setup"
 
 # Push to your branch
-git push origin onboarding/firstname-lastname
+git push origin onboarding/firstname-lastname-onboarding
 ```
 
 ### Step 4: Create a Pull Request
