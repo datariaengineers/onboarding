@@ -71,16 +71,6 @@ When you've completed most of your onboarding:
 
 #### Using GitHub CLI (Recommended)
 ```bash
-# Create a new branch for your onboarding
-git checkout -b onboarding/firstname-lastname
-
-# Add and commit your checklist
-git add onboarding/checklists/firstname-lastname.md
-git commit -m "Add onboarding checklist for Firstname Lastname"
-
-# Push your branch
-git push origin onboarding/firstname-lastname
-
 # Create PR using GitHub CLI
 gh pr create \
   --title "Onboarding Checklist - Firstname Lastname" \
