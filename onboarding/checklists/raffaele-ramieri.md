@@ -44,7 +44,7 @@
 **I chose**: [x] macOS [ ] Windows
 
 #### Package Manager
-- [ ] Installed package manager (Homebrew/Scoop)
+- [x] Installed package manager (Homebrew/Scoop)
   - Version: 4.6.20
   - Issues encountered: _____________
   - Time taken: _____ minutes
@@ -115,23 +115,7 @@
 
 **I chose**: [ ] VS Code [x] PyCharm Community [ ] Both
 
-#### VS Code (if applicable)
-- [ ] Installed VS Code
-  - Version: _____________
-
-- [ ] Installed essential extensions:
-  - [ ] Python
-  - [ ] Black Formatter
-  - [ ] isort
-  - [ ] Terraform
-  - [ ] AWS Toolkit
-  - [ ] GitHub Pull Requests
-  - [ ] Other: _____________
-
-- [ ] Applied recommended settings
-  - Notes: _____________
-
-#### PyCharm (if applicable)
+#### PyCharm 
 - [x] Installed PyCharm Community
   - Version: 2025.2.4, NB:ora esiste solo una versione
 
@@ -167,10 +151,10 @@
 
 - [x] Generated SSH key for GitHub
   - Key type: [x] ed25519 [ ] RSA
-  - Added to GitHub: [ ] Yes [x] No
+  - Added to GitHub: [x] Yes [ ] No
 
-- [ ] Tested GitHub SSH connection
-  - Result: _____________
+- [x] Tested GitHub SSH connection
+  - Result: Hi RaffaeleDataria! You've successfully authenticated, but GitHub does not provide shell access.
 
 #### Shell Configuration
 - [ ] Created/updated shell profile
@@ -181,23 +165,23 @@
   - Notes: _____________
 
 #### Project Configuration
-- [ ] Created .gitignore template
-- [ ] Created .editorconfig
+- [x] Created .gitignore template
+- [x] Created .editorconfig
 - [ ] Set up pre-commit hooks (if applicable)
 
 ### Day 5 - First Repository
 
 - [x] Cloned first Dataria repository
-  - Repository name: onboarding
-  - Clone method: [ ] SSH [x] HTTPS
-  - Notes: _____________
+  - Repository name: scraper
+  - Clone method: [x] SSH [ ] HTTPS
+  - Notes: il desktop e legato al cloud 
 
-- [ ] Installed project dependencies
-  - Method used (uv/pip): _____________
+- [x] Installed project dependencies
+  - Method used (uv/pip): uv sync
   - Issues: _____________
 
 - [ ] Ran project locally
-  - Success: [ ] Yes [ ] No
+  - Success: [ ] Yes [x] No
   - Notes: _____________
 
 - [ ] Created this onboarding checklist PR
@@ -260,23 +244,24 @@
 
 ### What Went Well
 <!-- Share what worked well in your onboarding process -->
-
+Tutti disponibili
 
 ### Challenges Encountered
 <!-- Share any difficulties or blockers you faced -->
-
+Il non essere abituato al Mac 
 
 ### Suggestions for Improvement
 <!-- How can we make onboarding better for future joiners? -->
-
+Mettere una sezione key differences tra windows e mac
+Forse va aggiornato
 
 ### Tools/Resources That Were Most Helpful
 <!-- Which documentation or tools were particularly useful? -->
-
+onboarding
+Chatgpt
 
 ### Additional Notes
 <!-- Any other feedback or comments -->
-
 
 ---
 
