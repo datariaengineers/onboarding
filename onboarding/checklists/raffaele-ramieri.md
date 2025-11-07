@@ -1,13 +1,13 @@
-# Onboarding Checklist - [Raffaele]
+# Onboarding Checklist - [Raffaele Ramieri]
 
 **Date Started**: [2026-11-06]
 **Team**: [Dataria]
-**Manager**: [Azzurra]
+**Manager**: [Azzurra Roberto]
 **Operating System**: [x] macOS [ ] Windows
 
 ## Instructions
 
-1. Copy this template to `onboarding/checklists/raffaele-ramieri.md`
+1. Copy this template to `onboarding/checklists/your-name.md`
 2. Check off items as you complete them
 3. Add notes about any issues or solutions you found
 4. Create a Pull Request when done to help improve the onboarding process
@@ -18,12 +18,12 @@
 
 ### Day 1 - Account Access
 - [x] **Dataria Slack** - Joined workspace and introduced myself in #general
-  - Slack workspace URL: dataria.slack.com
-  - Notes: tutto liscio come l'olio
+  - Slack workspace URL: datariaworkspace.slack.com
+  - Notes: _____________
 
 - [x] **Linear** - Account created and added to team
   - Team(s): Dataria
-  - Notes: avevo già fatto accesso
+  - Notes: _____________
 
 - [ ] **AWS Console** - Access granted and verified login
   - Account ID: _____________
@@ -32,28 +32,36 @@
 
 - [x] **GitHub** - Added to datariaengineers organization
   - GitHub username: RaffaeleDataria
-  - Repositories I have access to: tutte penso
-  - Notes: non trovavo la password
+  - Repositories I have access to: tutte
+  - Notes: _____________
 
-- [ ] **Company Email** - Set up and configured
+- [x] **Company Email** - Set up and configured
   - Email address: raffaele@dataria.it
-  - Notes: felice di essere l'unico raffaele
+  - Notes: _____________
 
 ### Day 1-2 - Platform Setup
 
-**I "chose"**: [x] macOS [ ] Windows
+**I chose**: [x] macOS [ ] Windows
 
 #### Package Manager
 - [ ] Installed package manager (Homebrew/Scoop)
-  - Version: _____________
+  - Version: 4.6.20
   - Issues encountered: _____________
   - Time taken: _____ minutes
 
 #### Terminal
 - [x] Installed terminal (iTerm2/Windows Terminal)
-  - Configuration applied: [x] Yes [ ] No
-  - Custom theme/font: non mi piaceva e ho messo black
-  - Notes: _____________
+  - Configuration applied: [ ] Yes [ ] No
+  - Custom theme/font: Solarized Dark
+  - Notes: 
+	1)non ho trovato il tema Tomorrow Night
+	2)non ho trovato nessuno dei font raccomandati
+	3)l'app si chiama solo iterm
+	4)una sezione per consigli su Mac sarebbe
+	utile, da windowista non trovo scontato le impostazioni delle
+	app si gestiscano da quella che sembra solo
+	gui del desktop 
+	(ho usato command+, sul momento)
 
 #### Optional Enhancements
 - [ ] Oh My Zsh / PowerShell Profile configured
@@ -71,10 +79,10 @@
   - Issues: _____________
 
 - [x] Installed uv
-  - Version: uv 0.9.7 (Homebrew 2025-10-30)
+  - Version: 0.9.7
   - Notes: _____________
 
-- [ ] Created test virtual environment
+- [x] Created test virtual environment
   - Command used: uv venv .venv
   - Worked successfully: [x] Yes [ ] No
 
@@ -83,25 +91,24 @@
   - Version: 3.0.0
   - Notes: _____________
 
-- [ ] Installed Terraform
-  - Terraform version: Terraform v1.13.5
-on darwin_arm64
+- [x] Installed Terraform
+  - Terraform version: 1.13.5
   - Notes: _____________
 
-- [ ] Installed TFLint
-  - Version: _____________
+- [x] Installed TFLint
+  - Version: 0.59.1
   - Notes: _____________
 
 #### CLI Tools
-- [ ] Installed AWS CLI
-  - Version: _____________
-  - Configured with credentials: [ ] Yes [ ] No
+- [x] Installed AWS CLI
+  - Version: 2.31.30
+  - Configured with credentials: [ ] Yes [x] No
   - Default region: _____________
   - Notes: _____________
 
-- [ ] Installed GitHub CLI (gh)
-  - Version: _____________
-  - Authenticated successfully: [ ] Yes [ ] No
+- [x] Installed GitHub CLI (gh)
+  - Version: 2.83.0
+  - Authenticated successfully: [x] Yes [ ] No
   - Notes: _____________
 
 ### Day 3-4 - IDE & Editor
@@ -126,16 +133,17 @@ on darwin_arm64
 
 #### PyCharm (if applicable)
 - [x] Installed PyCharm Community
-  - Version: PyCharm 2025.2.4
+  - Version: 2025.2.4, NB:ora esiste solo una versione
 
 - [x] Configured Python interpreter
-  - Interpreter path: _____________
+  - Interpreter path: _____________ non ho capito
 
-- [ ] Installed Terraform plugin
+- [x] Installed Terraform plugin
   - Notes: _____________
 
-- [ ] Installed AWS Toolkit
-  - Notes: _____________
+- [x] Installed AWS Toolkit
+  - Notes: non so cosa voglia dire install for 	
+	   AWS resource management, l'ho solo installato
 
 #### Claude Code
 - [ ] Installed Claude Code
@@ -151,15 +159,15 @@ on darwin_arm64
 
 #### Git Configuration
 - [x] Configured Git user name and email
-  - Name: Raffaele
+  - Name: RaffaeleDataria
   - Email: raffaele@dataria.it
 
 - [x] Set up Git aliases
   - Notes: _____________
 
-- [ ] Generated SSH key for GitHub
-  - Key type: [ ] ed25519 [ ] RSA
-  - Added to GitHub: [ ] Yes [ ] No
+- [x] Generated SSH key for GitHub
+  - Key type: [x] ed25519 [ ] RSA
+  - Added to GitHub: [ ] Yes [x] No
 
 - [ ] Tested GitHub SSH connection
   - Result: _____________
@@ -180,7 +188,7 @@ on darwin_arm64
 ### Day 5 - First Repository
 
 - [x] Cloned first Dataria repository
-  - Repository name: onboard
+  - Repository name: onboarding
   - Clone method: [ ] SSH [x] HTTPS
   - Notes: _____________
 
@@ -201,20 +209,20 @@ on darwin_arm64
 ## Week 2-4: Team Integration
 
 ### Meetings & Introductions
-- [ ] Attended daily standup
-  - Date: _____________
+- [x] Attended daily standup
+  - Date: 7/11/2025
   - Notes: _____________
 
-- [ ] One-on-one with manager
-  - Date: _____________
+- [x] One-on-one with manager
+  - Date: 6/11/2025
   - Topics discussed: _____________
 
-- [ ] Met with buddy/mentor
-  - Buddy name: _____________
+- [x] Met with buddy/mentor
+  - Buddy name: Azzurra
   - Notes: _____________
 
-- [ ] Attended team meeting
-  - Date: _____________
+- [x] Attended team meeting
+  - Date: 06/11/2025
   - Notes: _____________
 
 ### Learning & Documentation
