@@ -19,11 +19,9 @@
 ### Day 1 - Account Access
 - [x] **Dataria Slack** - Joined workspace and introduced myself in #general
   - Slack workspace URL: datariaworkspace.slack.com
-  - Notes: _____________
 
 - [x] **Linear** - Account created and added to team
   - Team(s): Dataria
-  - Notes: _____________
 
 - [ ] **AWS Console** - Access granted and verified login
   - Account ID: _____________
@@ -33,11 +31,9 @@
 - [x] **GitHub** - Added to datariaengineers organization
   - GitHub username: RaffaeleDataria
   - Repositories I have access to: tutte
-  - Notes: _____________
 
 - [x] **Company Email** - Set up and configured
   - Email address: raffaele@dataria.it
-  - Notes: _____________
 
 ### Day 1-2 - Platform Setup
 
@@ -46,8 +42,6 @@
 #### Package Manager
 - [x] Installed package manager (Homebrew/Scoop)
   - Version: 4.6.20
-  - Issues encountered: _____________
-  - Time taken: _____ minutes
 
 #### Terminal
 - [x] Installed terminal (iTerm2/Windows Terminal)
@@ -72,16 +66,13 @@
 #### Python Setup
 - [x] Installed pyenv
   - Version: 2.6.12
-  - Notes: _____________
 
 - [x] Installed Python
   - Python version: 3.12.0
-  - Issues: _____________
 
 - [x] Installed uv
   - Version: 0.9.7
-  - Notes: _____________
-
+ 
 - [x] Created test virtual environment
   - Command used: uv venv .venv
   - Worked successfully: [x] Yes [ ] No
@@ -89,15 +80,12 @@
 #### Terraform Setup
 - [x] Installed tfenv
   - Version: 3.0.0
-  - Notes: _____________
 
 - [x] Installed Terraform
   - Terraform version: 1.13.5
-  - Notes: _____________
 
 - [x] Installed TFLint
   - Version: 0.59.1
-  - Notes: _____________
 
 #### CLI Tools
 - [x] Installed AWS CLI
@@ -123,21 +111,19 @@
   - Interpreter path: _____________ non ho capito
 
 - [x] Installed Terraform plugin
-  - Notes: _____________
 
 - [x] Installed AWS Toolkit
   - Notes: non so cosa voglia dire install for 	
 	   AWS resource management, l'ho solo installato
 
 #### Claude Code
-- [ ] Installed Claude Code
-  - Version: _____________
+- [x] Installed Claude Code
+  - Version: 2.0.36
 
-- [ ] Authenticated with Anthropic
-  - Status: [ ] Success [ ] Pending
+- [x] Authenticated with Anthropic
+  - Status: [x] Success [ ] Pending
 
-- [ ] Tested basic commands
-  - Notes: _____________
+- [x] Tested basic commands
 
 ### Day 4-5 - Configuration & Git Setup
 
@@ -147,7 +133,6 @@
   - Email: raffaele@dataria.it
 
 - [x] Set up Git aliases
-  - Notes: _____________
 
 - [x] Generated SSH key for GitHub
   - Key type: [x] ed25519 [ ] RSA
@@ -181,10 +166,10 @@
   - Issues: _____________
 
 - [ ] Ran project locally
-  - Success: [ ] Yes [x] No
+  - Success: [ ] Yes [ ] No
   - Notes: _____________
 
-- [ ] Created this onboarding checklist PR
+- [x] Created this onboarding checklist PR
   - PR number: #_____________
   - Date submitted: _____________
 
