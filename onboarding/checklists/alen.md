@@ -1,5 +1,3 @@
-'ahaaa sfigati'
-
 # Onboarding Checklist - [Your Name]
 
 **Date Started**: [YYYY-MM-DD]
