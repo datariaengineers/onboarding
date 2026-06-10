@@ -17,7 +17,7 @@
 ## Week 1: Essential Access & Setup
 
 ### Day 1 - Account Access
-- [ ] **Dataria Slack** - Joined workspace and introduced myself in #general
+- [X] **Dataria Slack** - Joined workspace and introduced myself in #general
   - Slack workspace URL: _____________
   - Notes: _____________
 
@@ -30,18 +30,18 @@
   - Region(s): _____________
   - Notes: _____________
 
-- [ ] **GitHub** - Added to datariaengineers organization
+- [X] **GitHub** - Added to datariaengineers organization
   - GitHub username: _____________
   - Repositories I have access to: _____________
   - Notes: _____________
 
-- [ ] **Company Email** - Set up and configured
+- [X] **Company Email** - Set up and configured
   - Email address: _____________
   - Notes: _____________
 
 ### Day 1-2 - Platform Setup
 
-**I chose**: [ ] macOS [ ] Windows
+**I chose**: [X] macOS [ ] Windows
 
 #### Package Manager
 - [ ] Installed package manager (Homebrew/Scoop)
@@ -66,7 +66,7 @@
   - Version: _____________
   - Notes: _____________
 
-- [ ] Installed Python
+- [X] Installed Python
   - Python version: _____________
   - Issues: _____________
 
@@ -105,14 +105,14 @@
 
 ### Day 3-4 - IDE & Editor
 
-**I chose**: [ ] VS Code [ ] PyCharm Community [ ] Both
+**I chose**: [ ] VS Code [ ] PyCharm Community [X] Both
 
 #### VS Code (if applicable)
-- [ ] Installed VS Code
+- [X] Installed VS Code
   - Version: _____________
 
 - [ ] Installed essential extensions:
-  - [ ] Python
+  - [X] Python
   - [ ] Black Formatter
   - [ ] isort
   - [ ] Terraform
@@ -172,7 +172,7 @@
   - Notes: _____________
 
 #### Project Configuration
-- [ ] Created .gitignore template
+- [X] Created .gitignore template
 - [ ] Created .editorconfig
 - [ ] Set up pre-commit hooks (if applicable)
 
@@ -191,7 +191,7 @@
   - Success: [ ] Yes [ ] No
   - Notes: _____________
 
-- [ ] Created this onboarding checklist PR
+- [X] Created this onboarding checklist PR
   - PR number: #_____________
   - Date submitted: _____________
 
@@ -231,10 +231,10 @@
   - Task ID: _____________
   - Description: _____________
 
-- [ ] Created first feature branch
+- [X] Created first feature branch
   - Branch name: _____________
 
-- [ ] Made first commit
+- [X] Made first commit
   - Commit hash: _____________
   - Date: _____________
 
